@@ -91,7 +91,7 @@ COMPONENTS REQUIRED:
 
 *Connecting wires
 
-*Lcd 16*2
+*Lcd 16x2
 
 *Breadboard
 
